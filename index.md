@@ -4,7 +4,11 @@
 - The TAs/instructors are nice
 - These monitors are pretty great... Nice and wide
 - The lighting in this room is yellow, which I guess is better than no lighting or a blue tint
-- The blinds on the front window are half open, and from my seat it like perfectly frames a stoplight outside. It's like my personal art piece. To me it represents society and the folly of man.
+- The blinds on the front window are half open, and from my seat it like perfectly frames a stoplight outside. It's like my personal art piece. To me it represents society and the folly of man
+
+
+
+
 
 
 
