@@ -1,3 +1,13 @@
+# Dean's first CS193 Lab
+
+- It's a relaxed class that still has useful information about the tools we'll be using
+- The TAs/instructors are nice
+- These monitors are pretty great... Nice and wide
+- The lighting in this room is yellow, which I guess is better than no lighting or a blue tint
+- The blinds on the front window are half open, and from my seat it like perfectly frames a stoplight outside. It's like my personal art piece. To me it represents society and the folly of man.
+
+
+
 ## Welcome to GitHub Pages
 
 I can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for my website in Markdown files.
